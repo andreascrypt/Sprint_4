@@ -4,7 +4,6 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from locators.main_page_locators import MainPageLocators
 
-
 class QuestionsPage:
 
     def __init__(self, browser):
